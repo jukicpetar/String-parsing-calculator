@@ -1,5 +1,7 @@
 Simple c++ string parsing calculator
 
+(for some reason github text editor ignores multiplication sign next to digit or bracket)
+
 This simple calculator supports 4 basic operations (+,-,/,*) and brackets.
 It accepts input as string, for example: 2.5*((2-1)+3), and it returns solution.
 In order to solve equation, it needs to find numbers and operators.
